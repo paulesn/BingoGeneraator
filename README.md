@@ -1,1 +1,1 @@
-# BingoGeneraator
+# BingoGenerator
